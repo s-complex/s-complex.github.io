@@ -6,8 +6,6 @@ const vuetify = createVuetify({
     themes: {
       light: {
         colors: {
-          background: "#ECEFF1",
-          surface: "#FFFFFF",
           primary: "#2196F3",
           secondary: "#03A9F4",
           blockquote: "#ECEFF1",
@@ -16,8 +14,6 @@ const vuetify = createVuetify({
       },
       dark: {
         colors: {
-          background: "#263238",
-          surface: "#37474F",
           primary: "#2196F3",
           secondary: "#03A9F4",
           blockquote: "#455A64",
