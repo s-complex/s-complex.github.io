@@ -28,6 +28,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: ./build
-          user_name: slivermoe
-          user_email: 148861329+slivermoe@users.noreply.github.com
+          user_name: inslicc
+          user_email: 148861329+inslicc@users.noreply.github.com
           cname: insli.cc
