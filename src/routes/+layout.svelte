@@ -11,7 +11,7 @@
 		rel="icon"
 		type="image/webp"
 		sizes="64x64"
-		href="https://library.gxres.net/images/icons/favicon.webp"
+		href="https://library.gxres.net/images/icons/favicon.ico"
 	/>
 	<link
 		rel="apple-touch-icon"
@@ -30,7 +30,7 @@
 		</section>
 	</main>
 	<footer>
-		<p class="text-center text-sm">
+		<p class="text-center text-sm p-3">
 			© 2022 - {new Date().getFullYear()} <a href="/">Sliver Complex</a>. Powered by
 			<a href="https://svelte.dev" target="_blank" rel="noopener noreferer">SvelteKit</a>.
 		</p>

@@ -19,7 +19,7 @@
 			width="64"
 			height="64"
 			alt="Sliver Complex logo"
-			src="https://library.gxres.net/images/icons/favicon.webp"
+			src="https://library.gxres.net/images/icons/big-favicon.webp"
 		/>
 		<h1>Sliver Complex</h1>
 	</div>

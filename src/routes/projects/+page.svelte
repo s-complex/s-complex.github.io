@@ -11,7 +11,7 @@
 	let isLoading = true;
 
 	onMount(async () => {
-		const response = await fetch('https://api.insli.cc/org-projects');
+		const response = await fetch('https://api.sirvr.win/org-projects');
 		const data: Repo[] = await response.json();
 		repos = data.map((repo) => ({
 			name: repo.name,
