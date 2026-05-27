@@ -19,7 +19,7 @@
 		sizes="128x128"
 		href="https://library.gxres.net/images/icons/big-favicon.webp"
 	/>
-	<link rel="canonical" href="https://insli.cc" />
+	<link rel="canonical" href="https://sirvr.win" />
 </svelte:head>
 
 <div class="max-w-2xl mx-auto flex flex-col min-h-svh">
@@ -37,5 +37,3 @@
 	</footer>
 </div>
 
-<style>
-</style>

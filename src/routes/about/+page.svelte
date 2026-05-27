@@ -10,7 +10,7 @@
 <h2>Services</h2>
 <p>
 	We also provide some services to fill gaps in our website operations. Now these services will be
-	hosted by the domain <code>insli.cc</code> of the website you are now visiting.
+	hosted by the domain <code>sirvr.win</code> of the website you are now visiting.
 </p>
 <p>
 	We are glad to help others building their websites, such as personal homepage and blog, although
